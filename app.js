@@ -215,3 +215,95 @@
 
 
 // Question No. 16
+// var num = +prompt ('Enter the number')
+// var A = []
+// for (var i = num; i >= 0; i = i - 0.5) {
+//     num = num - 0.5
+//     A.push (i)
+//     if (i === 0) {
+//         console.log (A.join(','))
+//     }
+// }
+
+
+
+
+// Question No. 17
+// for (var i = 0; i <= 20; i++){
+//     if (i%2 === 0) {
+//         console.log (i + ' is even')
+//     } else {
+//         console.log (i + ' is odd')
+//     }
+// }
+
+
+
+
+// Question No. 18
+// var product = 1;
+// for (var i = 1; i <= 7; i = i + 2) {
+//     product = product * i 
+// }
+// console.log ('The product of odd integers from 1 to 7 is ' + product)
+
+
+
+
+// Question No. 19
+// for (var i = 7; i > 0; i = i - 1){
+    
+//     var A = []
+
+//     for (var j = 0; j < i; j++) {
+//         A.push ('*')
+//     }
+    
+//     console.log (A.join (''))
+// }
+
+
+
+
+// Question No. 20
+
+// var input = +prompt ('Enter no of lines')
+
+// a
+// for (var i = 0; i < input; i++) {
+
+//     var A =[]
+
+//     for (var j = 0; j < input; j++) {
+//         A.push ('*')
+//     }
+
+//     console.log (A.join(''))
+// }
+
+
+// b
+// for (var i = 0; i < input; i++){
+    
+//     var A = []
+
+//     for (var j = 0; j <= i; j++) {
+//         A.push ('*')
+//     }
+    
+//     console.log (A.join (''))
+// }
+
+
+// c
+// for (var i = input; i > 0; i = i - 1){
+    
+//     var A = []
+
+//     for (var j = 0; j < i; j++) {
+//         A.push ('*')
+//     }
+    
+//     console.log (A.join (''))
+// }
+
