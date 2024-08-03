@@ -56,3 +56,61 @@
 //         console.log (A.join(','))
 //     }
 // }
+
+// b
+// var A = []
+// for (var i = 1; i <= 10; i++){
+//     A.push (i)
+//     if (i === 10){
+//         A.reverse()
+//         console.log (A.join(','))
+//     }
+// }
+
+// c
+// var A = []
+// for (var i = 0; i <= 20; i = i + 2){
+//     A.push (i)
+//     if (i === 20){
+//         console.log (A.join(','))
+//     }
+// }
+
+// d
+// var A = []
+// for (var i = 1; i <= 19; i = i + 2){
+//     A.push (i)
+//     if (i === 19){
+//         console.log (A.join(','))
+//     }
+// }
+
+// e
+// var A = []
+// for (var i = 2; i <= 20; i = i + 2){
+//     A.push (i+"k")
+//     if (i === 20){
+//         console.log (A.join(','))
+//     }
+// }
+
+// Question No. 8 
+// var A = ['cake' , 'apple pie' , 'cookie' , 'chips' , 'patties']
+// var inputName = prompt ('Enter name to search')
+// for (var i = 0; i < A.length; i++){
+//     if (inputName === A [i]) {
+//         console.log (inputName + ' is available at index ' + i + ' in our bakery')
+//         break
+//     } else if (i === (A.length - 1)){
+//         console.log ('we are sorry. ' + inputName + ' is not available in our bakery' )
+//     }
+// }
+
+// Question No. 9 
+// var A = [24 , 1 , 1 , 1 , 1 ]
+// for (i = 0; i < A.length; i++ ){
+//     if (A[i] > A[i+1] || A[i] > A[i-1]){
+//         var largestNumber = A[i]
+//     }
+// }
+// console.log (largestNumber)
