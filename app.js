@@ -3,10 +3,17 @@
 //     console.log ("Hello World")
 // }
 
+
+
+
 // Question No. 2
 // for (var i = 1; i <= 10; i++){
 //     console.log (i)
 // }
+
+
+
+
 
 // Question No. 3
 // var tableNumber = +prompt ('Enter number')
@@ -20,17 +27,31 @@
 //     console.log (tableNumber + ' * ' + i + ' = ' + tableNumber * i )
 // }
 
+
+
+
+
+
 // Question No. 4
 // var A = ['Nokia' , 'Samsung' , 'Apple' , 'Sony' , 'Huawei']
 // for (var i = 0; i < A.length; i++){
 //     console.log (A[i])
 // }
 
+
+
+
+
+
 // Question No. 5
 // var A = ['apple' , 'banana' , 'mango' , 'orange' , 'strawberry']
 // for (var i = 0; i < A.length; i++){
 //     console.log (A[i])
 // }
+
+
+
+
 
 // Question No. 6
 // var lengthOfArray = +prompt ('Enter length of array')
@@ -45,6 +66,10 @@
 //     A.push(item)
 //     console.log (A [i-1])
 // }
+
+
+
+
 
 // Question No. 7
 
@@ -94,6 +119,11 @@
 //     }
 // }
 
+
+
+
+
+
 // Question No. 8 
 // var A = ['cake' , 'apple pie' , 'cookie' , 'chips' , 'patties']
 // var inputName = prompt ('Enter name to search')
@@ -105,6 +135,11 @@
 //         console.log ('we are sorry. ' + inputName + ' is not available in our bakery' )
 //     }
 // }
+
+
+
+
+
 
 
 // Question No. 9
@@ -123,6 +158,11 @@
 // console.log (largestNumber)
 
 
+
+
+
+
+
 // Question No. 10
 // var A = [600000 , 120 , 0.00000002 , 8000000, 110 , 0.5 , 1100 , 5 , 12000 , 0.5 , 0.2 , 500000]
 // var smallestNumber = A[0];
@@ -137,6 +177,11 @@
 //     }
 // }
 // console.log (smallestNumber)
+
+
+
+
+
 
 
 // Question No. 11
@@ -166,6 +211,9 @@
 
 
 
+
+
+
 // Question No. 12
 // var A=[]
 // for (var i = 1; i <= 20; i++){
@@ -174,6 +222,10 @@
 //         console.log (A.join(','))
 //     }
 // }
+
+
+
+
 
 
 // Question No. 13
@@ -190,6 +242,10 @@
 
 
 
+
+
+
+
 // Question No. 14
 // var scores = [12 , 45 , 3 , 22 , 34 , 50]
 // var stopValue = +prompt ('Enter value at stop')
@@ -201,6 +257,7 @@
 //         break
 //     }
 // }
+
 
 
 
