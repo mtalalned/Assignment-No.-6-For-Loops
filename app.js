@@ -235,9 +235,9 @@
 
 // for (var i = 0; i < students.length && i < scores.length; i++) {
 //     if (i === 0){
-//         table.innerHTML = '<th> Students </th> <th> Scores </th>'
+//         table.innerHTML = '<tr><th> Students </th> <th> Scores </th></tr>'
 //     }
-//     table.innerHTML += '<td>' + students[i] + '</td>' + '<td>' + scores[i] + '</td>'
+//     table.innerHTML += '<tr>'+'<td>' + students[i] + '</td>' + '<td>' + scores[i] + '</td>'+'</tr>'
 // }
 
 
